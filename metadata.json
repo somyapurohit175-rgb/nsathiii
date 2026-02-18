@@ -1,0 +1,8 @@
+
+{
+  "name": "न्यायSAATHI (NyayaSAATHI)",
+  "description": "A sophisticated Legal-Tech platform simplifying Indian Law (IPC/BNS) for citizens through AI-driven risk analysis, document parsing, and interactive educational tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
